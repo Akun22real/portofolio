@@ -1,0 +1,67 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #EDEDED;
+}
+
+#projects {
+  background-color: #EDEDED;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.col-md-4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+}
+
+.display-ax {
+  font-family: 'Inter', sans-serif;
+  font-size: 35px;
+}
+
+.lead-ax {
+  font-family: 'Inter', sans-serif;
+}
+
+h2 {
+  font-family: 'inter', Sans-Serif;
+}
+
+h5 {
+  font-family: 'inter', Sans-Serif;
+  font-size:  18px;
+}
+
+.nav-item {
+  font-family: 'inter', Sans-Serif;
+}
+
+.btn-primary {
+  font-family : 'inter', Sans-Serif;
+}
+
+.text-center-ax {
+  font-family : 'inter', Sans-Serif;
+}
+
+a {
+  text-decoration:none
+}
+
+.card {
+   border-radius: 10px;
+}
+
+.card-img-top {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+.carousel-inner {
+    border-radius: 10px;
+}
